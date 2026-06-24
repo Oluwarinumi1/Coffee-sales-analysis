@@ -1,14 +1,15 @@
 # COFFEE SALES ANALYSIS
 # Table of Contents
-- [COFFEE-SALES-ANALSIS](#OFFEE-SALES-ANALSIS)
+- [Title](#OFFEE-SALES-ANALSIS)
 - [Overview](#Project-Overview)
 - [Business Description](#Business-Description)
 - [Aim](#Aim-of-the-project)
-- [Dataset](#dataset)
+- [Dataset](#Dataset)
 - [Cleaning Tools and Processes](#Data-Cleaning-Processes)
 - [Analysis and Visualization](#Analysis-and-Visualization)
 - [Dashboard](#Dashboard)
-- 
+- [Insight and Recommendation](#Insight-and-Recommendation)
+- [Summary](#Summary)
 ## Project Overview
 The Coffee Sales Analysis dataset contains transactional records of coffee purchases made through a coffee vending machine or coffee shop over a specific period. The dataset is used to analyze sales performance, customer purchasing behavior, product popularity, and revenue generation patterns.
 ## Business Description
@@ -72,7 +73,7 @@ Americano contributes the largest share of coffee sales revenue.
 
 
 ### Recommendation
-
+## Summary
 
 
 
