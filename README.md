@@ -3,7 +3,7 @@
 - [COFFEE-SALES-ANALSIS](#OFFEE-SALES-ANALSIS)
 - [Overview](#Project-Overview)
 - [Business Description](#Business-Description)
-- [Objectives](#Aim-of-the-project)
+- [Aim](#Aim-of-the-project)
 - [Dataset](#dataset)
 - [Cleaning Tools and Processes](#Data-Cleaning-Processes)
 - [Analysis and Visualization](#Analysis-and-Visualization)
