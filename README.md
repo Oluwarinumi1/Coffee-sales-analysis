@@ -42,16 +42,17 @@ The data cleaning process was carried out to ensure the accuracy, consistency, a
 - Microsoft Excel: Remove Duplicates, Filter, Sort, Find & Replace, Text-to-Columns.
 - Power Query: Data transformation, data type conversion, handling missing values, and creating
 ## Analysis and Visualization
-Jerome Ltd. generated a total revenue of ₦115.432K.
-The business served approximately 1,000 customers.
-A total of 3,636 transactions were recorded.
-Americano is the most purchased coffee type.
-Latte is the second most popular coffee product.
-Espresso has the lowest sales and purchase frequency.
-Most customers prefer paying with cards rather than cash.
-The highest number of transactions occurs during the night period.
-Monthly sales were highest at the beginning of the year and gradually declined over subsequent months.
-Americano contributes the largest share of coffee sales revenue.
+### Analysis
+- Jerome Ltd. generated a total revenue of ₦115.432K.
+- The business served approximately 1,000 customers.
+- A total of 3,636 transactions were recorded.
+- Americano is the most purchased coffee type.
+- Latte is the second most popular coffee product.
+- Espresso has the lowest sales and purchase frequency.
+- Most customers prefer paying with cards rather than cash.
+- The highest number of transactions occurs during the night period.
+- Monthly sales were highest at the beginning of the year and gradually declined over subsequent months.
+- Americano contributes the largest share of coffee sales revenue.
 ### Visualization
 - KPI Cards - display Revenue, Customers, Transactions, Average Price, Highest Price, and Lowest Price.
 - Sales Distribution Bar Chart - compares total sales across coffee types.
@@ -65,6 +66,7 @@ Americano contributes the largest share of coffee sales revenue.
 - Filters (Month, Payment Method, and Week Day) - allow users to interactively explore the dashboard data.
  ## Dashboard
 <img width="835" height="377" alt="Dashboard " src="https://github.com/user-attachments/assets/0e6e5f5a-b07e-415e-afc8-2c81520ef605" />
+
 ## Insight and Recommendation 
 ### Insight
 
