@@ -27,4 +27,6 @@ The data cleaning process was carried out to ensure the accuracy, consistency, a
 - Data Type Validation - Numeric fields such as sales amount and quantity sold were verified and converted to appropriate data types where necessary.
 - Creation of Derived Variables - Additional fields such as Month, Day of Week, and Hour of Transaction were created from the date and time columns to support trend and time-based analysis.
 - Verification of Data Accuracy - The cleaned dataset was reviewed to ensure that all values were accurate, complete, and ready for analysis.
-
+### Tools used for Cleaning
+- Microsoft Excel: Remove Duplicates, Filter, Sort, Find & Replace, Text-to-Columns.
+- Power Query: Data transformation, data type conversion, handling missing values, and creating
