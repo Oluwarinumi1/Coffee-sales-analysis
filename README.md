@@ -22,16 +22,9 @@ The dataset captures important details about each coffee sale, including the typ
 The data cleaning process was carried out to ensure the accuracy, consistency, and reliability of the coffee sales dataset before analysis. The following steps were undertaken:
 - Removal of Duplicate Records - The dataset was checked for duplicate transactions, and any repeated records were removed to prevent inaccurate sales calculations.
 - Handling Missing Values - Missing or incomplete entries were identified and addressed by either replacing them with appropriate values or removing records where necessary.
-Correction of Data Entry Errors
-Inconsistencies in coffee names, payment methods, and other categorical variables were corrected to maintain uniformity throughout the dataset.
-Standardization of Data Formats
-Date, time, currency, and text formats were standardized to ensure consistency and facilitate accurate analysis.
-Data Type Validation
-Numeric fields such as sales amount and quantity sold were verified and converted to appropriate data types where necessary.
-Removal of Irrelevant Data
-Unnecessary columns and records that did not contribute to the analysis objectives were removed.
-Creation of Derived Variables
-Additional fields such as Month, Day of Week, and Hour of Transaction were created from the date and time columns to support trend and time-based analysis.
-Verification of Data Accuracy
-The cleaned dataset was reviewed to ensure that all values were accurate, complete, and ready for analysis.
+- Correction of Data Entry Errors - Inconsistencies in coffee names, payment methods, and other categorical variables were corrected to maintain uniformity throughout the dataset.
+- Standardization of Data Formats - Date, time, currency, and text formats were standardized to ensure consistency and facilitate accurate analysis.
+- Data Type Validation - Numeric fields such as sales amount and quantity sold were verified and converted to appropriate data types where necessary.
+- Creation of Derived Variables - Additional fields such as Month, Day of Week, and Hour of Transaction were created from the date and time columns to support trend and time-based analysis.
+- Verification of Data Accuracy - The cleaned dataset was reviewed to ensure that all values were accurate, complete, and ready for analysis.
 
