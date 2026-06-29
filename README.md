@@ -68,14 +68,22 @@ The data cleaning process was carried out to ensure the accuracy, consistency, a
 <img width="835" height="377" alt="Dashboard " src="https://github.com/user-attachments/assets/0e6e5f5a-b07e-415e-afc8-2c81520ef605" />
 
 ## Insight and Recommendation 
-### Insight
-
-
-
-
-
-### Recommendation
+### Insights
+- April recorded the lowest sales despite having the highest number of cash transactions. This may indicate that customers relied more on cash payments during the month, possibly due to temporary issues with electronic payment systems. If card payment services were disrupted, customers without cash may have abandoned their purchases, contributing to the decline in overall sales.
+- The analysis shows that customers preferred milk-based coffee beverages over regular coffee and cocoa-based drinks, as they recorded higher sales. This suggests that milk-based coffee products are more popular and contribute significantly to overall revenue.
+- The analysis indicates that coffee sales were highest during the night, suggesting that customers preferred purchasing coffee during evening and nighttime hours. This trend may reflect increased demand from individuals working late hours, night shifts, or those seeking coffee for leisure or study activities.
+- The monthly sales trend exhibited an irregular pattern, with noticeable fluctuations throughout the analysis period. Sales reached their lowest levels in October 2024 and January 2025, indicating periods of reduced customer demand or possible operational and seasonal influences.
+### Recommendations
+- Ensure electronic payment systems are regularly monitored and maintained to minimize downtime. Providing multiple reliable payment options and having contingency plans in place can help prevent lost sales and improve the customer experience during payment system disruptions.
+- Prioritize the availability of milk-based coffee beverages by maintaining adequate inventory and promoting them through special offers or combo deals. At the same time, consider introducing new milk-based drink varieties while evaluating strategies, such as targeted promotions or recipe enhancements, to increase demand for regular coffee and cocoa-based drinks.
+- Increase staffing and inventory during peak evening and nighttime hours to meet customer demand efficiently. Additionally, consider introducing night-time promotions or loyalty offers to maximize sales and enhance customer satisfaction during these peak periods.
+- Conduct further analysis to identify the factors contributing to the sales decline during these months, such as seasonal demand, marketing activities, pricing strategies, or operational challenges. Implement targeted promotional campaigns and customer engagement initiatives during historically low-performing months to help stabilize sales and improve overall performance.
 ## Summary
+The analysis of the coffee sales dataset revealed several important insights into customer purchasing behavior and sales performance. Monthly sales fluctuated throughout the analysis period, with the lowest sales recorded in October 2024, January 2025, and April, suggesting the influence of seasonal or operational factors. Despite April recording the highest number of cash transactions, overall sales remained low, which may indicate temporary challenges with electronic payment methods that could have discouraged some customers from completing their purchases.
+
+Customer preferences were also evident in the analysis. Milk-based coffee beverages generated higher sales than regular coffee and cocoa-based drinks, making them the most popular product category. In addition, coffee purchases peaked during the night, indicating increased demand during evening hours, possibly driven by customers working late, studying, or engaging in leisure activities.
+
+Overall, the findings highlight opportunities for the business to improve payment system reliability, maintain adequate stock of high-demand products, optimize staffing during peak hours, and implement targeted promotional strategies during historically low-performing months to enhance sales performance and customer satisfaction.
 
 
 
